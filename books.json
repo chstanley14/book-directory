@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "The Stand",
+        "author": "Stephen King"
+    },
+    {
+        "id": 2,
+        "title": "The Way of Kings",
+        "author": "Brandon Sanderson"
+    },
+    {
+        "id": 3,
+        "title": "Project Hail Mary",
+        "author": "Andy Weir"
+    },
+    {
+        "id": 4,
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin"
+    }
+]
